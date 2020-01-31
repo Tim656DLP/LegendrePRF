@@ -36,7 +36,7 @@ The program halts after finding the key k and printing it out.
     -n bits: number of bits of N, default: 24
     -s seed: randomness seed, default: time(NULL)
     -t num_threads: number of threads. default: 6
-    -r read_data: read precomputed data or create it (0). default: 1
+    -r read_data: read precomputed data (1) or create it (0). default: 1
     -h help
 
 ```bash
