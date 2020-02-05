@@ -1,6 +1,7 @@
 # LegendrePRF
 
-LegendrePRF is a C implementation of a key exctraction algorithm of the Legendre pseudorandom function.
+LegendrePRF is an algorithm for key recovery of the Legendre pseudorandom function written in C.
+You can find more information on the algorithm in https://eprint.iacr.org/2020/098 .
 
 ## Prerequisites
 
