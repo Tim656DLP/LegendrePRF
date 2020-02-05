@@ -1,7 +1,7 @@
 # LegendrePRF
 
-LegendrePRF is an algorithm for key recovery of the Legendre pseudorandom function written in C.
-You can find more information on the algorithm in https://eprint.iacr.org/2020/098 .
+LegendrePRF is an algorithm for key recovery of the Legendre pseudorandom function written in C. It was used to solve challenges set by the Ethereum foundation - https://legendreprf.org/bounties.
+You can find more information on the algorithm in https://eprint.iacr.org/2020/098.
 
 ## Prerequisites
 
